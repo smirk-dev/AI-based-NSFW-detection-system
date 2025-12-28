@@ -56,7 +56,7 @@ Product Requirements Document: GuardAI-Client-Mod
 
 **Goal:** Build the intelligent filter that scans text, images, and links without slowing down the browser.
 
-*   **Story 1.1:** Setup secure AI API integration (Gemini) preventing key exposure.
+*   **Story 1.1:** Implementation of a Stateless Proxy to hide API keys (Gemini) preventing key exposure.
     
 *   **Story 1.2:** Implement Text Analysis Logic (Regex + AI Sentiment fallback).
     
